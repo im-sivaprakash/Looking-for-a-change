@@ -1,2 +1,2 @@
-# shiva_slayer
+This was builed using Ionic framwork
 
