@@ -1,2 +1,2 @@
-This was builed using Ionic framwork
+This was builded using Ionic framwork
 
